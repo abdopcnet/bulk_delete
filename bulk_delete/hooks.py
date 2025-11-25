@@ -44,7 +44,10 @@ app_license = "mit"
 
 # include js in doctype views
 # doctype_js = {"doctype" : "public/js/doctype.js"}
-doctype_list_js = {"Error Log" : "public/js/error_log_delete_all.js"}
+doctype_list_js = {
+    "Error Log": "public/js/error_log_delete_all.js",
+    "Deleted Document": "public/js/deleted_document_delete_all.js"
+}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 
@@ -241,4 +244,3 @@ doctype_list_js = {"Error Log" : "public/js/error_log_delete_all.js"}
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
