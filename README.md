@@ -1,6 +1,6 @@
 # Bulk Delete
 
-![Version](https://img.shields.io/badge/version-10.12.2025-blue)
+![Version](https://img.shields.io/badge/version-16.12.2025-blue)
 
 
 A Frappe app that adds bulk delete functionality to Error Log list view.
